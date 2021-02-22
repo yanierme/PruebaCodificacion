@@ -1,0 +1,16 @@
+integracion/ConexionBD.java
+ integracion.ConexionBD
+models/DatosEmpleados.java
+ models.DatosEmpleados
+integracion/InsertarDatos.java
+ integracion.InsertarDatos
+enums/Querys.java
+ enums.Querys
+models/DatosConexion.java
+ models.DatosConexion
+data/GenerarDatos.java
+ data.GenerarDatos
+enums/ConfiguracionConexion.java
+ enums.ConfiguracionConexion
+integracion/ConsultarDatos.java
+ integracion.ConsultarDatos
